@@ -5,7 +5,7 @@ This project is a simple application that allows users to download YouTube video
 - Download videos by pasting YouTube URLs
 - Store downloaded videos in local storage
 - Play downloaded videos as mp3 files
-   ### Where Are My Videos Saved?
+   ### "Where Are My Videos Saved?"
    Your videos will be stored in the "\NMA\Playlists" section of the "Music" folder on your computer.
 
 ## How to Use
